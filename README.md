@@ -50,13 +50,13 @@
 **MARK SPLIT_UP:**
 ![IMG_20251009_061156](https://github.com/user-attachments/assets/6ef33ba0-81f2-41cc-96b7-9352798ba9dd)
 
-   **RESULT:**
+**RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
-a)	The current across 330Ω resistor is	A.
+a)	The current across 330Ω resistor is	9.00 A.
 
-b)	The current across 560Ω resistor is	A.
+b)	The current across 560Ω resistor is	8.99 A.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is	0.04 A.
 
