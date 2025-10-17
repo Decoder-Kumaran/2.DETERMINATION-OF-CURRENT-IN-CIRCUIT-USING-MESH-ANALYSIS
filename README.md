@@ -43,6 +43,12 @@
 
 ![IMG_20251009_042218_1](https://github.com/user-attachments/assets/b67af7e0-dfa9-4871-b6f8-6fff0b8dc3e7)
 
+**CALCULATION:**
+
+![IMG_20251009_042226_1](https://github.com/user-attachments/assets/c140fd0b-6050-432e-9c4c-39cedd8440b7)
+
+**MARK SPLIT_UP:**
+![IMG_20251009_061156](https://github.com/user-attachments/assets/6ef33ba0-81f2-41cc-96b7-9352798ba9dd)
 
    **RESULT:**
 
